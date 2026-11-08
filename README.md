@@ -41,8 +41,9 @@ The site is intentionally simple: each language version is a static HTML page, w
 ## Links
 
 - Website: **[thepartnerpact.com](https://thepartnerpact.com)**
-- Email: [thepartnerpact@proton.me](mailto:thepartnerpact@proton.me)
-- George Freedom: **[GeorgeFreedom.com](https://GeorgeFreedom.com)**
+- Email: [thepartnerpact@email.cz](mailto:thepartnerpact@email.cz)
+
+- personal web: **[GeorgeFreedom.com](https://GeorgeFreedom.com)**
 - LinkedIn: **[George Freedom](https://www.linkedin.com/in/georgefreedom/)**
 
 ## License
